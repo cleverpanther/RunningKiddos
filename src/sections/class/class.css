@@ -1,0 +1,22 @@
+.main_1 {
+    margin-bottom: 20px;
+    background: #ffffff;
+    border-radius: 20px;
+    opacity: 1;
+    flex-grow: 1;
+    min-height: 1;
+    display: flex;
+    flex-direction: column;
+}
+.main_2 {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+.main_3 {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
